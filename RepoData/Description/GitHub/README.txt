@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🍏️🖥️🇽🐟️📖️ The official documentation source repository for the WacOS X Public Beta subsystem of WacOS, an open-source alternative to the Mac OS X 10.0 Public Beta. Part of the WacOS operating system project.
