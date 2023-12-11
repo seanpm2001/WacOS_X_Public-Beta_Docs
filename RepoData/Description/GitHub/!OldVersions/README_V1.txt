@@ -1,0 +1,1 @@
+🍏️🖥️🇽🐟️📖️ The official documentation source repository for the WacOS X Public Beta subsystem of WacOS, an open-source alternative to the Mac OS X 10.0 Public Beta. Part of the WacOS operating system project.
